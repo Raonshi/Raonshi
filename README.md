@@ -6,8 +6,7 @@ I'm working as a front-end developer in startup company.
 Here are my skills
 
 - Python 
-- Java (with Springboot, android)
-- Kotlin (with android)
+- Kotlin / Swift
 - Dart(Flutter)
 - NoSQL(Firestore) / MySQL
 - Unity
